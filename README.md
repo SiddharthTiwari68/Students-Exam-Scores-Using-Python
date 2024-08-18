@@ -33,7 +33,7 @@ Analyze the influence of personal and socio-economic factors on student performa
 14.WritingScore: Writing test score (0-100)
 
 # Data Preprocessing
-Handling Missing Values:
+Handling Missing Values:-
 
 Identify Missing Values: Check for missing values and decide on a strategy for handling them.
 
