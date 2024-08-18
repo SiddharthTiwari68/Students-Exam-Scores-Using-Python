@@ -34,6 +34,7 @@ Analyze the influence of personal and socio-economic factors on student performa
 
 # Data Preprocessing
 Handling Missing Values:
+
 Identify Missing Values: Check for missing values and decide on a strategy for handling them.
 
 Imputation Strategies:
@@ -53,11 +54,9 @@ Calculate mean, median, mode, and standard deviation for numerical columns.
 
 1.Bar Charts: Compare average scores across different categories (e.g., Gender).
 
-2.Heatmap: Visualize the spread of scores by LunchType, TestPrep, and ParentMaritalStatus.
+2.Heatmap: Relationship between Parent's Eduction and Student's Score,Relationship between ParentMaritalStatus and Student's Score.
 
-3.Heatmap: Display correlations between features and highlight significant relationships.
-
-4.Pie Chart: Distribution of Ethnic Groups
+3.Pie Chart: Distribution of Ethnic Groups
 
 # Insights and Conclusions
 Identify significant factors affecting Math, Reading, and Writing scores.
