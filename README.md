@@ -48,12 +48,16 @@ Identify and address outliers in numerical features such as MathScore, ReadingSc
 # Summary Statistics: 
 
 Calculate mean, median, mode, and standard deviation for numerical columns.
+
 # Data Visualization
 
-1.Bar Charts: Compare average scores across different categories (e.g., Gender, EthnicGroup, ParentEduc).
-2.Box Plots: Visualize the spread of scores by LunchType, TestPrep, and ParentMaritalStatus.
-3.Scatter Plots: Plot WklyStudyHours against scores to identify trends.
-4.Heatmap: Display correlations between features and highlight significant relationships.
+1.Bar Charts: Compare average scores across different categories (e.g., Gender).
+
+2.Heatmap: Visualize the spread of scores by LunchType, TestPrep, and ParentMaritalStatus.
+
+3.Heatmap: Display correlations between features and highlight significant relationships.
+
+4.Pie Chart: Distribution of Ethnic Groups
 
 # Insights and Conclusions
 Identify significant factors affecting Math, Reading, and Writing scores.
